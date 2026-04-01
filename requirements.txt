@@ -1,0 +1,45 @@
+# File parsing
+pymupdf
+pdfplumber
+python-docx
+pytesseract
+pillow
+
+# NLP core
+spacy
+nltk
+transformers
+langchain
+langchain-community
+openai
+anthropic
+
+# ETL & pipeline
+dvc
+dvc[s3]
+kaggle
+
+# Database
+pymongo
+python-dotenv
+pydantic
+
+# Backend (later)
+fastapi
+uvicorn
+celery
+redis
+
+# ML tracking
+mlflow
+dagshub
+
+# Visualization & output
+pandas
+plotly
+streamlit
+wordcloud
+
+# Testing & quality
+pytest
+ruff
